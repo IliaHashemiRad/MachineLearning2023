@@ -1,6 +1,6 @@
-# 🧠 Image Processing Projects Portfolio
+# 🧠 Machine Learning Projects Portfolio
 
-> A curated collection of academic image processing and probabilistic modeling projects, featuring deep learning pipelines for restoration tasks and Gaussian Mixture Model (GMM) methods for statistical inference.
+> A curated collection of academic computer vision and probabilistic modeling projects, featuring deep learning pipelines for restoration tasks and Gaussian Mixture Model (GMM) methods for statistical inference.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-This repository contains five hands-on projects developed for image processing and machine learning coursework. Together, they cover:
+This repository contains five hands-on projects developed for computer vision and machine learning coursework. Together, they cover:
 
 - 🖼️ **Image restoration tasks** using neural networks (denoising, super-resolution, colorization)
 - 📊 **Probabilistic modeling** using Gaussian Mixture Models (EM and MAP-based estimation)
@@ -24,7 +24,7 @@ The codebase is organized around end-to-end experimental workflows, with each pr
 ## 📂 Repository Structure
 
 ```text
-ImageProcessing/
+MachineLearning2023/
 ├── Image Denoising/
 │   ├── Image Denoising.ipynb
 │   └── README.md
@@ -90,7 +90,7 @@ ImageProcessing/
 1. Clone the repository:
    ```bash
    git clone <your-repo-url>
-   cd ImageProcessing
+   cd MachineLearning2023
    ```
 2. Open any project notebook in Jupyter/Colab.
 3. Install required dependencies as needed (varies slightly per notebook).
@@ -111,16 +111,6 @@ Across projects, the repository demonstrates:
 
 ---
 
-## 🧭 Suggested GitHub “About” Section
-
-### ✅ Short Description
-**Academic image processing portfolio featuring autoencoder-based denoising/super-resolution/colorization and probabilistic GMM methods (EM & MAP) in Python notebooks.**
-
-### ✅ Suggested Topics
-`image-processing`, `deep-learning`, `autoencoder`, `image-denoising`, `super-resolution`, `image-colorization`, `gaussian-mixture-model`, `expectation-maximization`, `map-estimation`, `pytorch`, `jupyter-notebook`, `mnist`
-
----
-
 ## 📚 Notes
 
 - This repository is experiment-oriented and intended for educational/research demonstration.
@@ -130,4 +120,4 @@ Across projects, the repository demonstrates:
 
 ## 👨‍💻 Author
 
-Developed as part of university coursework in image processing and machine learning.
+Developed as part of university coursework in machine learning course of Sharif University of Technology in 2023.
